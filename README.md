@@ -4,7 +4,7 @@
 ## About me (ENG-US):
 
  - 🎓 **Currently:** Bachelor's degree in *Computer Science* 
- - 💡  **Interests:** Technology, Artificial Intelligence, innovation and continuous learning
+ - 💡   **Interests:** Technology, Artificial Intelligence, innovation and continuous learning
  - 🧠 **Learning:** *Python*, *Java* and *HTML*
 
 
@@ -13,7 +13,7 @@
 ## Sobre mim (PT-BR):
 
  - 🎓 **Atualmente:** Fazendo bacharel em *Ciência da Computação*
- - 💡  **Interesses:** Tecnologia, Inteligência artificial, inovação e aprendizado continuo
+ - 💡   **Interesses:** Tecnologia, Inteligência artificial, inovação e aprendizado continuo
  - 🧠 **Aprendendo:** *Python*, *Java* e *HTML*
 
 <div style="display: inline_block"><br>
