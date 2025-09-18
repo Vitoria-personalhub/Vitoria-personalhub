@@ -3,18 +3,18 @@
   
 ## About me (ENG-US):
 
- - 🎓 Currently: Bachelor's degree in Computer Science 
- - 💡 Interests: Technology, Artificial Intelligence, innovation and continuous learning
- - 🧠 Learning: Python, Java and HTML
+ - 🎓 **Currently:** Bachelor's degree in Computer Science 
+ - 💡 **Interests:** Technology, Artificial Intelligence, innovation and continuous learning
+ - 🧠 **Learning:** Python, Java and HTML
 
 
 
 
 ## Sobre mim (PT-BR):
 
- - 🎓 Atualmente: Fazendo bacharel em Ciência da Computação
- - 💡 Interesses: Tecnologia, Inteligência artificial, inovação e aprendizado continuo
- - 🧠 Aprendendo: Python, Java e HTML
+ - 🎓 **Atualmente:** Fazendo bacharel em Ciência da Computação
+ - 💡 **Interesses:** Tecnologia, Inteligência artificial, inovação e aprendizado continuo
+ - 🧠 **Aprendendo:** Python, Java e HTML
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
