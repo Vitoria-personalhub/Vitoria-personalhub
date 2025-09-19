@@ -1,16 +1,16 @@
+</div>
 Olá 👋 | Hi there 👋
 <div>
 
- ## About me (EN-US):
+ ## About me (EN-US): ##
  - 🎓 **Currently:** Bachelor's degree in *Computer Science* 
  - 💡  **Interests:** Technology, Artificial Intelligence, innovation and continuous learning
  - 🧠 **Learning:** *Java*, *Python*, *HTML* and *CSS*
 
-<div style="display: inline-block" align="center"><br>
-    <img height="200" align="right" alt="GitStats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-personalhub&layout=donut&theme=react&border_radius=10&title_langs=Linguagens%20que%20mais%20uso">
-</div>
 
-### Sobre mim (PT-BR):
+## Sobre mim (PT-BR): ##
+<img height="170" align="right" alt="GitStats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-personalhub&layout=donut&theme=react">
+    
  - 🎓 **Atualmente:** Fazendo bacharel em *Ciência da Computação*
  - 💡  **Interesses:** Tecnologia, Inteligência artificial, inovação e aprendizado continuo
  - 🧠 **Aprendendo:** *Java*, *Python*, *HTML* e *CSS*
