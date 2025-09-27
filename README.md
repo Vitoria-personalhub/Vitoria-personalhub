@@ -28,7 +28,7 @@ Olá 👋 | Hi there 👋
 </a>
 
 <a href="https://github.com/Vitoria-personalhub/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vitoria-personalhub&layout=compact&langs_count=12&card_width=320&theme=omni" /> 
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vitoria-personalhub&layout=donut&langs_count=12&card_width=320&theme=omni" /> 
 </a>
 </div>
 
