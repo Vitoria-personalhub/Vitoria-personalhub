@@ -1,5 +1,5 @@
 </div>
-Olá 👋 | Hi there 👋
+Hi there 👋 | Olá 👋
 <div>
 
  ## About me (EN-US): ##
@@ -34,7 +34,7 @@ Olá 👋 | Hi there 👋
 
 
 
- ## Contate-me aqui: 📩 | Contact me here: 📩 ##
+ ##  Contact me here: 📩 | Contate-me aqui: 📩 ##
 
    <a href="https://www.linkedin.com/in/vitoriamilene" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/miivitr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
