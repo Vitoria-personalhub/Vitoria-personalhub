@@ -4,7 +4,7 @@ Olá 👋 | Hi there 👋
 
  ## About me (EN-US): ##
  - 🎓 **Currently:** Bachelor's degree in *Computer Science*.
- - 💡  **Interests:** Technology, artificial intelligence, Automation, innovation and continuous learning.
+ - 💡  **Interests:** Technology, artificial intelligence, automation, innovation and continuous learning.
  - 🧠 **Learning:** *Java*, *Python*, *HTML* and *CSS*.
 
 
