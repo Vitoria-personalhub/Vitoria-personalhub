@@ -20,8 +20,7 @@ Hi there 👋 | Olá 👋
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-
-###
+#
 <div align="left">
 <a href="https://github.com/Vitoria-personalhub/github-readme-stats">
   <img height=180 align="center" src="https://github-stats-extended.vercel.app/api?username=Vitoria-personalhub&theme=radical" />
@@ -31,8 +30,9 @@ Hi there 👋 | Olá 👋
 </a>
 </div>
 
- ##  Contact me here: 📩 | Contate-me aqui: 📩 ##
-
+#
    <a href="https://www.linkedin.com/in/vitoriamilene" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/miivitr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
+
+
