@@ -24,19 +24,15 @@ Hi there 👋 | Olá 👋
 ###
 <div align="left">
 <a href="https://github.com/Vitoria-personalhub/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Vitoria-personalhub&theme=omni" />
+  <img height=180 align="center" src="https://github-stats-extended.vercel.app/api?username=Vitoria-personalhub&theme=radical" />
 </a>
-
 <a href="https://github.com/Vitoria-personalhub/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vitoria-personalhub&layout=donut&langs_count=12&card_width=320&theme=omni" /> 
+  <img height=180 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Vitoria-personalhub&layout=compact&langs_count=6&card_width=320&theme=radical" />
 </a>
 </div>
-
-
 
  ##  Contact me here: 📩 | Contate-me aqui: 📩 ##
 
    <a href="https://www.linkedin.com/in/vitoriamilene" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/miivitr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-
